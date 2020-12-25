@@ -1,0 +1,2 @@
+Sales dataset:
+Chill-E-AC is an up-and-coming air conditioning company (fictional company, but data are simulated based on a real consulting case).  They run a holiday sale every year for Fourth of July, and are wondering what is a reasonable forecast for this year. You have been given sales of AC units from the beginning of 2015 through June 2019. Your task is to predict sales for the first 10 days of July 2019. (small hint: there's a leap year in the dataset)
